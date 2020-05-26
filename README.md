@@ -11,7 +11,7 @@ This is a React exercise where we'll use the Github API to fetch repositories th
 - As a user, I want to see the name and stars-count of all Github repositories above 25k stars
 - As a user, I want some indication when the data is loading/being-fetched
 - As a user, I want to be able to specify the stars-count theshold that determines which which repos will be displayed
-- As a user, I want to click on one of the rows and be taken to a new "page" that shows:
+- As a user, I want to click on one of the rows and be taken to a new "page" that shows (please use internal app state to display this view, not react-router):
 - - repo name
 - - stars count
 - - open_issues_count
@@ -19,7 +19,6 @@ This is a React exercise where we'll use the Github API to fetch repositories th
 - - a link to the repository
 - As a user, I want a "Back" button to return to the list of repos
 - As a user, I want results to be paginated with 5 repos on each page
-- As a developer, I want to use API V4 (graphql) in my solution
 - As a user, I want everything to be styled and look good
 
 ### Setup
