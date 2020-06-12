@@ -20,8 +20,8 @@ This is a React exercise where we'll use the Github API to fetch repositories an
 
 After cloning this repository:
 
-- Run `yarn install` to install dependencies
-- Run `yarn start` to start up the app
+- Run `npm install` to install dependencies
+- Run `npm start` to start up the app
 
 ### Github API
 
