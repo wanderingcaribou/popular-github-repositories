@@ -25,6 +25,6 @@ After cloning this repository:
 
 ### Github API
 
-We'll be using the following Github endpoint in our code [as documented here](https://developer.github.com/v3/search/#search-repositories). Here's an example of the endpoint we will be submitting requests to:
+Here's an example of the endpoint we will be submitting requests to:
 
 https://api.github.com/search/repositories?q=stars:>25000&sort=stars&order=desc
